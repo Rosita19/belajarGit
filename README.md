@@ -1,2 +1,2 @@
 # belajarGit
-belajar git
+Sedang Belajar GIT
